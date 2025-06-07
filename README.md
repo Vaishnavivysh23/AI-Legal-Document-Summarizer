@@ -51,8 +51,12 @@ streamlit run streamlit_app.py
 4. The summary will also be saved locally as `summary.txt`.
 
 ##🤝 Contributions
+```
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
+```
 
 ##📄 License
+```
 This project is licensed under the MIT License. See the LICENSE file for details.
+```
 
