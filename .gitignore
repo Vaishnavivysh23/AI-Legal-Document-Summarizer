@@ -26,5 +26,5 @@ Thumbs.db
 dist/
 build/
 
-# Summary file (optional, if you don’t want to upload)
+# Summary file 
 summary.txt
