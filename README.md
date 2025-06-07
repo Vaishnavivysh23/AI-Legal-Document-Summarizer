@@ -42,3 +42,17 @@ AI Legal Document Summarizer is a simple yet powerful tool built using Python an
 ### Running the App
 
 ```bash
+streamlit run streamlit_app.py
+```
+### Steps to Use the App
+1. Upload your legal PDF document.  
+2. Enter your Hugging Face API key.  
+3. Click **Summarize** to generate and view the summary.  
+4. The summary will also be saved locally as `summary.txt`.
+
+##🤝 Contributions
+Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
+
+##📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
