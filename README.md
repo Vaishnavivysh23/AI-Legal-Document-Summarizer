@@ -30,7 +30,7 @@ AI Legal Document Summarizer is a simple yet powerful tool built using Python an
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/ai-legal-document-summarizer.git
+    git clone https://github.com/Vaishnavivysh23/ai-legal-document-summarizer.git
     cd ai-legal-document-summarizer
     ```
 
